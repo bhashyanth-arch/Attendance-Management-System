@@ -1,8 +1,8 @@
-# Attendance Management System
+# Student Attendance Management System
 
 ## Project Description
 
-This project is a Python-based Attendance Management System developed as a mini project. It helps maintain student attendance records digitally and provides attendance analysis.
+This project is a Python-based Student Attendance Management System developed as a mini project. It helps maintain student attendance records digitally and provides attendance analysis.
 
 ## Features
 
